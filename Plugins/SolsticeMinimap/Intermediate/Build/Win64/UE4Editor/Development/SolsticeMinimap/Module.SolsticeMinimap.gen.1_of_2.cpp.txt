@@ -1,0 +1,173 @@
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Definitions.SolsticeMinimap.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapDynamicActorComponent.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapDynamicActorComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElementInfo.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapElementInfo.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MinimapElementInfo.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MinimapElementInfo.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapDynamicActorComponent.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapElement.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapElement.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapElement.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapElementInfo.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapGenerationCompleteDelegate.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapGenerationCompleteDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapGenerationCompleteDelegate.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapSystem_MapElementBase.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapSystem_MapElementBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneCompletionMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationCustomVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactoryTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeHandler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Common.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementHoveredDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\OnLargeMapElementHoveredDelegate.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementUnHoveredDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\OnLargeMapElementUnHoveredDelegate.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MapElementBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapSystem_MapWidgetBase.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapSystem_MapWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidgetBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonUI\Public\CommonActivatableWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonUI\Public\CommonUserWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonUI\Public\CommonUITypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonInput\Public\CommonInputSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonInput\Public\CommonInputBaseTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedEnum.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedEnum.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UE4Editor\Inc\CommonInput\CommonInputBaseTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UE4Editor\Inc\CommonInput\CommonInputSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UE4Editor\Inc\CommonUI\CommonUITypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonUI\Public\Input/UIActionBindingHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UE4Editor\Inc\CommonUI\CommonUserWidget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UE4Editor\Inc\CommonUI\CommonActivatableWidget.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\RenderTargetMinimap.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\RenderTargetMinimap.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemWidgetBase.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MapWidgetBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapSystem_MinimapDrawCanvas.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapSystem_MinimapDrawCanvas.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapDrawCanvas.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapSystem_MinimapElementBase.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapSystem_MinimapElementBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapElementBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapSystem_MinimapWidgetBase.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapSystem_MinimapWidgetBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapWidgetBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapSystem_TooltipWidgetBase.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapSystem_TooltipWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_TooltipWidgetBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapSystemActorBounds.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapSystemActorBounds.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemActorBounds.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Intermediate/Build/Win64/UE4Editor/Inc/SolsticeMinimap/MapSystemManager.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap/Public/MapSystemManager.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemManager.generated.h

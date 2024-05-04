@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CommonLoadingScreen.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Other Modding\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.obj"
+"F:\Other Modding\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.gen.cpp.obj"
+"F:\Other Modding\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\CommonLoadingScreen\Default.rc2.res"
+/OUT:"F:\Other Modding\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\CommonLoadingScreen\UE4Editor-CommonLoadingScreen.lib"

@@ -1,0 +1,169 @@
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Definitions.DcxVehicle.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxAnalogControlArray.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxAnalogControlArray.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxAnalogControlArray.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxAnimNodeWheelSimulator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxAnimNodeWheelSimulator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxAnimNodeWheelSimulator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxDrivableSurfaceToTireFrictionPair.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxDrivableSurfaceToTireFrictionPair.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxDrivableSurfaceToTireFrictionPair.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxGear.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxGear.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxGear.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxMath.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxMath.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxMath.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicle.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicle.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicle.init.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicle4W.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicle4W.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicle4W.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleAnimInstance.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleAnimInstance.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleAnimInstance.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleAnimInstanceProxy.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleAnimInstanceProxy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation/AnimInstanceProxy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstanceProxy.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleAnimInstanceProxy.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleClutchData.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleClutchData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\EDcxVehicleClutchAccuracyMode.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleClutchAccuracyMode.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleClutchData.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDifferentialData4W.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDifferentialData4W.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\EDcxVehicleDifferential4W.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleDifferential4W.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDifferentialData4W.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveComponent.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDriveComponent.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleEngineData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleEngineData.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleGearboxData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleGearData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleGearData.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\EDcxVehicleGearbox.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleGearbox.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleGearboxData.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleWheelsComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleDriveInputRate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveInputRate.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleDriveState.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveState.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleSuspensionData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleSuspensionData.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleTireLoadFilterData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleTireLoadFilterData.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleWheelConfiguration.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleWheelData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleWheelData.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\EDcxVehicleWheelSweep.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleWheelSweep.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleWheelConfiguration.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleWheelState.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleWheelState.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleWheelsComponent.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveComponent.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveComponent4W.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDriveComponent4W.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveComponent4W.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveComponentNW.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDriveComponentNW.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveComponentNW.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveComponentTank.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDriveComponentTank.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\EDcxVehicleDriveControlModelTank.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleDriveControlModelTank.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveComponentTank.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveInputRate.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveRawInput.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDriveRawInput.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public\DcxVehicleWheelsRawInput.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleWheelsRawInput.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveRawInput.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveRawInput4W.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDriveRawInput4W.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveRawInput4W.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveRawInputNW.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDriveRawInputNW.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveRawInputNW.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveRawInputTank.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleDriveRawInputTank.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleDriveRawInputTank.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleDriveState.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleEngineData.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleGearboxData.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleGearData.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleNoDrive.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleNoDrive.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleNoDrive.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleNoDriveComponent.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleNoDriveComponent.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleNoDriveComponent.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleNoDriveRawInput.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleNoDriveRawInput.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleNoDriveRawInput.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleNW.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleNW.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleNW.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleSuspensionData.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleTank.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleTank.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleTank.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleTire.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/DcxVehicleTire.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\DcxVehicleTire.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleTireLoadFilterData.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleWheelConfiguration.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleWheelData.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleWheelsComponent.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleWheelsRawInput.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/DcxVehicleWheelState.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleClutchAccuracyMode.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleDifferential4W.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleDriveControl4W.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/EDcxVehicleDriveControl4W.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleDriveControl4W.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleDriveControlModelTank.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleDriveControlNW.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/EDcxVehicleDriveControlNW.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleDriveControlNW.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleDriveControlTank.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/EDcxVehicleDriveControlTank.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleDriveControlTank.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleGearbox.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleNoDriveControl.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/EDcxVehicleNoDriveControl.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleNoDriveControl.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleWheelOrder4W.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle/Public/EDcxVehicleWheelOrder4W.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle\EDcxVehicleWheelOrder4W.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/DcxVehicle/Intermediate/Build/Win64/UE4Editor/Inc/DcxVehicle/EDcxVehicleWheelSweep.gen.cpp

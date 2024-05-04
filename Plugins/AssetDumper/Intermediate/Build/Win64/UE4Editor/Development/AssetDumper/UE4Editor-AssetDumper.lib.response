@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AssetDumper.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Module.AssetDumper.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Module.AssetDumper.gen.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Default.rc2.res"
+/OUT:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\UE4Editor-AssetDumper.lib"

@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CgSDK.cpp.obj": [
+			"CgSDKBlueprint.cpp.obj",
+			"CgSDKModule.cpp.obj"
+		],
+		"Module.CgSDK.gen.cpp.obj": [
+			"CgSDK.init.gen.cpp.obj",
+			"CgSDKBlueprint.gen.cpp.obj",
+			"FCgSdkLedId.gen.cpp.obj"
+		]
+	}
+}

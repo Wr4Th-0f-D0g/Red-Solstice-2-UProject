@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DcxVehicle.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.gen.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Default.rc2.res"
+/OUT:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\UE4Editor-DcxVehicle.lib"

@@ -1,0 +1,153 @@
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Definitions.AssetGenerator.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/AnimBlueprintGenerator.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/AnimBlueprintGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetGeneration/AssetGenerationUtil.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/BlueprintGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetGeneration/AssetTypeGenerator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AssetTypeGenerator.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\BlueprintGenerator.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AnimBlueprintGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/AnimMontageGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/AnimMontageGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/SimpleAssetGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SimpleAssetGenerator.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AnimMontageGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/AnimSequenceGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/AnimSequenceGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AnimSequenceGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/AssetGenerator.init.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/AssetGeneratorCommandlet.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetGeneration/AssetGeneratorCommandlet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry/Private/AssetRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\PathTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\PackageDependencyData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\AssetDataGatherer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\DiskCachedAssetData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Private\BackgroundGatherResults.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AssetGeneratorCommandlet.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/AssetGeneratorLocalSettings.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/AssetGeneration/AssetGeneratorLocalSettings.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AssetGeneratorLocalSettings.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/AssetGeneratorSettings.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/AssetGeneration/AssetGeneratorSettings.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\AssetGeneratorSettings.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/AssetTypeGenerator.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/BehaviorTreeGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/BehaviorTreeGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\BehaviorTreeGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/BlackboardDataGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/BlackboardDataGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\BlackboardDataGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/BlendSpaceGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/BlendSpaceGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\BlendSpaceGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/BlueprintGenerator.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/CameraAnimGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/CameraAnimGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\CameraAnimGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/CurveBaseGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/CurveBaseGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\CurveBaseGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/CurveLinearColorAtlasGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/CurveLinearColorAtlasGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\CurveLinearColorAtlasGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/DataTableGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/DataTableGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\DataTableGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/FontFaceGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/FontFaceGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\FontFaceGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/FontGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/FontGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\FontGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/LandscapeGrassTypeGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/LandscapeGrassTypeGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\LandscapeGrassTypeGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/MaterialGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/MaterialGenerator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\MaterialGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/MaterialInstanceGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/MaterialInstanceGenerator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\MaterialInstanceGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/MaterialParameterCollectionGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/MaterialParameterCollectionGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\MaterialParameterCollectionGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/MediaAssetsGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/MediaAssetsGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\MediaAssetsGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/PhysicalMaterialGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/PhysicalMaterialGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\PhysicalMaterialGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/PhysicsAssetGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/PhysicsAssetGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\PhysicsAssetGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/SimpleAssetGen.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/SimpleAssetGen.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SimpleAssetGen.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/SimpleAssetGenerator.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/SkeletalMeshGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/SkeletalMeshGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SkeletalMeshGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/SkeletonGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/SkeletonGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SkeletonGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/SoundCueGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/SoundCueGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SoundCueGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/StaticMeshGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/StaticMeshGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\StaticMeshGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/StringTableGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/StringTableGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\StringTableGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/SubsurfaceProfileGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/SubsurfaceProfileGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\SubsurfaceProfileGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/Texture2DArrayGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/Texture2DArrayGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Public\Toolkit/AssetTypeGenerator/TextureGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\TextureGenerator.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\Texture2DArrayGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/Texture2DGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/Texture2DGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\Texture2DGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/TextureCubeGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/TextureCubeGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\TextureCubeGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/TextureGenerator.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/UserDefinedEnumGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/UserDefinedEnumGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\UserDefinedEnumGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/UserDefinedStructGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/UserDefinedStructGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\UserDefinedStructGenerator.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetGenerator/Intermediate/Build/Win64/UE4Editor/Inc/AssetGenerator/UserWidgetGenerator.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator/Public/Toolkit/AssetTypeGenerator/UserWidgetGenerator.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator\UserWidgetGenerator.generated.h

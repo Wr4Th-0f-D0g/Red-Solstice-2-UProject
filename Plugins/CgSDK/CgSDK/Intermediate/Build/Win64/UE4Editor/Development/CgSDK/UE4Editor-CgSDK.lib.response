@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CgSDK.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Module.CgSDK.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Module.CgSDK.gen.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Default.rc2.res"
+/OUT:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\UE4Editor-CgSDK.lib"

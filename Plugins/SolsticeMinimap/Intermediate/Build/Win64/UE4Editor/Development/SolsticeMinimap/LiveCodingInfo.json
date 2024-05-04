@@ -1,0 +1,53 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SolsticeMinimap.cpp.obj": [
+			"MapDynamicActorComponent.cpp.obj",
+			"MapElement.cpp.obj",
+			"MapElementInfo.cpp.obj",
+			"MapSystem_MapElementBase.cpp.obj",
+			"MapSystem_MapWidgetBase.cpp.obj",
+			"MapSystem_MinimapDrawCanvas.cpp.obj",
+			"MapSystem_MinimapElementBase.cpp.obj",
+			"MapSystem_MinimapWidgetBase.cpp.obj",
+			"MapSystem_TooltipWidgetBase.cpp.obj",
+			"MapSystemActorBounds.cpp.obj",
+			"MapSystemManager.cpp.obj",
+			"MapSystemStaticLibrary.cpp.obj",
+			"MapSystemWidget_PingElementBase.cpp.obj",
+			"MapSystemWidgetBase.cpp.obj",
+			"MapWidgetInternalBase.cpp.obj",
+			"MinimapElementInfo.cpp.obj",
+			"ObserverPawnBlockingVolume.cpp.obj",
+			"RenderTargetMinimap.cpp.obj",
+			"SolsticeMinimapModule.cpp.obj"
+		],
+		"Module.SolsticeMinimap.gen.1_of_2.cpp.obj": [
+			"MapDynamicActorComponent.gen.cpp.obj",
+			"MapElement.gen.cpp.obj",
+			"MapElementInfo.gen.cpp.obj",
+			"MapGenerationCompleteDelegate.gen.cpp.obj",
+			"MapSystem_MapElementBase.gen.cpp.obj",
+			"MapSystem_MapWidgetBase.gen.cpp.obj",
+			"MapSystem_MinimapDrawCanvas.gen.cpp.obj",
+			"MapSystem_MinimapElementBase.gen.cpp.obj",
+			"MapSystem_MinimapWidgetBase.gen.cpp.obj",
+			"MapSystem_TooltipWidgetBase.gen.cpp.obj",
+			"MapSystemActorBounds.gen.cpp.obj",
+			"MapSystemManager.gen.cpp.obj"
+		],
+		"Module.SolsticeMinimap.gen.2_of_2.cpp.obj": [
+			"MapSystemStaticLibrary.gen.cpp.obj",
+			"MapSystemWidget_PingElementBase.gen.cpp.obj",
+			"MapSystemWidgetBase.gen.cpp.obj",
+			"MapWidgetInternalBase.gen.cpp.obj",
+			"MinimapElementInfo.gen.cpp.obj",
+			"MinimapInterface.gen.cpp.obj",
+			"ObserverPawnBlockingVolume.gen.cpp.obj",
+			"OnLargeMapElementHoveredDelegate.gen.cpp.obj",
+			"OnLargeMapElementUnHoveredDelegate.gen.cpp.obj",
+			"RenderTargetMinimap.gen.cpp.obj",
+			"SolsticeMinimap.init.gen.cpp.obj"
+		]
+	}
+}

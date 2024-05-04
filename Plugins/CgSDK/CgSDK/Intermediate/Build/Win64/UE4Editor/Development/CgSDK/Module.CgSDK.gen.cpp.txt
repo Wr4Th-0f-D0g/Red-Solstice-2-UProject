@@ -1,0 +1,10 @@
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Definitions.CgSDK.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/CgSDK/CgSDK/Intermediate/Build/Win64/UE4Editor/Inc/CgSDK/CgSDK.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/CgSDK/CgSDK/Intermediate/Build/Win64/UE4Editor/Inc/CgSDK/CgSDKBlueprint.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Source\CgSDK/Public/CgSDKBlueprint.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Source\CgSDK\Public\FCgSdkLedId.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Inc\CgSDK\FCgSdkLedId.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Inc\CgSDK\CgSDKBlueprint.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/CgSDK/CgSDK/Intermediate/Build/Win64/UE4Editor/Inc/CgSDK/FCgSdkLedId.gen.cpp

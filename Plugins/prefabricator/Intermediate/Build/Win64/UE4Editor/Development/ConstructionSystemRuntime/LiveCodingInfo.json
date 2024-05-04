@@ -1,0 +1,49 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ConstructionSystemRuntime.cpp.obj": [
+			"ConstructionSystemBuildTool.cpp.obj",
+			"ConstructionSystemComponent.cpp.obj",
+			"ConstructionSystemCursor.cpp.obj",
+			"ConstructionSystemItemUserData.cpp.obj",
+			"ConstructionSystemRemoveTool.cpp.obj",
+			"ConstructionSystemRuntimeModule.cpp.obj",
+			"ConstructionSystemSaveConstructedItem.cpp.obj",
+			"ConstructionSystemSaveGame.cpp.obj",
+			"ConstructionSystemSavePlayerInfo.cpp.obj",
+			"ConstructionSystemSaveSystem.cpp.obj",
+			"ConstructionSystemTool.cpp.obj",
+			"ConstructionSystemUIAsset.cpp.obj",
+			"ConstructionSystemUICategory.cpp.obj",
+			"ConstructionSystemUIPrefabEntry.cpp.obj",
+			"PCSnapConstraintFloor.cpp.obj",
+			"PCSnapConstraintWall.cpp.obj",
+			"PrefabricatorConstructionSnap.cpp.obj",
+			"PrefabricatorConstructionSnapComponent.cpp.obj"
+		],
+		"Module.ConstructionSystemRuntime.gen.cpp.obj": [
+			"ConstructionSystemBuildTool.gen.cpp.obj",
+			"ConstructionSystemBuildUI.gen.cpp.obj",
+			"ConstructionSystemComponent.gen.cpp.obj",
+			"ConstructionSystemCursor.gen.cpp.obj",
+			"ConstructionSystemItemUserData.gen.cpp.obj",
+			"ConstructionSystemRemoveTool.gen.cpp.obj",
+			"ConstructionSystemRuntime.init.gen.cpp.obj",
+			"ConstructionSystemSaveConstructedItem.gen.cpp.obj",
+			"ConstructionSystemSaveGame.gen.cpp.obj",
+			"ConstructionSystemSavePlayerInfo.gen.cpp.obj",
+			"ConstructionSystemSaveSystem.gen.cpp.obj",
+			"ConstructionSystemTool.gen.cpp.obj",
+			"ConstructionSystemUIAsset.gen.cpp.obj",
+			"ConstructionSystemUICategory.gen.cpp.obj",
+			"ConstructionSystemUIPrefabEntry.gen.cpp.obj",
+			"EConstructionSystemCursorVisiblity.gen.cpp.obj",
+			"EConstructionSystemToolType.gen.cpp.obj",
+			"EPrefabricatorConstructionSnapType.gen.cpp.obj",
+			"PCSnapConstraintFloor.gen.cpp.obj",
+			"PCSnapConstraintWall.gen.cpp.obj",
+			"PrefabricatorConstructionSnap.gen.cpp.obj",
+			"PrefabricatorConstructionSnapComponent.gen.cpp.obj"
+		]
+	}
+}
