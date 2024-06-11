@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-PrefabricatorRuntime.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Module.PrefabricatorRuntime.cpp.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Module.PrefabricatorRuntime.gen.cpp.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Default.rc2.res"
-/OUT:"F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\UE4Editor-PrefabricatorRuntime.lib"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Module.PrefabricatorRuntime.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Module.PrefabricatorRuntime.gen.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Default.rc2.res"
+/OUT:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\UE4Editor-PrefabricatorRuntime.lib"

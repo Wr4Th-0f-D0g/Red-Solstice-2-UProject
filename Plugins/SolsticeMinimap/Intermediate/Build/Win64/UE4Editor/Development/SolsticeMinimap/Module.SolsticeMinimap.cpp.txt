@@ -1,26 +1,26 @@
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Definitions.SolsticeMinimap.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapDynamicActorComponent.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapDynamicActorComponent.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Definitions.SolsticeMinimap.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapDynamicActorComponent.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapDynamicActorComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElementInfo.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapElementInfo.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MinimapElementInfo.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MinimapElementInfo.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapDynamicActorComponent.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapElement.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElement.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElementInfo.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapElementInfo.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MinimapElementInfo.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MinimapElementInfo.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapDynamicActorComponent.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapElement.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElement.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapElement.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapElementInfo.cpp
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MapElementBase.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MapElementBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapElement.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapElementInfo.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MapElementBase.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MapElementBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
@@ -120,14 +120,14 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementHoveredDelegate.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\OnLargeMapElementHoveredDelegate.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementUnHoveredDelegate.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\OnLargeMapElementUnHoveredDelegate.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MapElementBase.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MapWidgetBase.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MapWidgetBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementHoveredDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\OnLargeMapElementHoveredDelegate.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementUnHoveredDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\OnLargeMapElementUnHoveredDelegate.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MapElementBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MapWidgetBase.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MapWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidgetBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonUI\Public\CommonActivatableWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonUI\Public\CommonUserWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonUI\Public\CommonUITypes.h
@@ -142,27 +142,27 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Interme
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Source\CommonUI\Public\Input/UIActionBindingHandle.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UE4Editor\Inc\CommonUI\CommonUserWidget.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UE4Editor\Inc\CommonUI\CommonActivatableWidget.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\RenderTargetMinimap.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\RenderTargetMinimap.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemWidgetBase.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MapWidgetBase.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MinimapDrawCanvas.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapDrawCanvas.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapDrawCanvas.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MinimapElementBase.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapElementBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapElementBase.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MinimapWidgetBase.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\RenderTargetMinimap.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\RenderTargetMinimap.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemWidgetBase.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MapWidgetBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MinimapDrawCanvas.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapDrawCanvas.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapDrawCanvas.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MinimapElementBase.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapElementBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapElementBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_MinimapWidgetBase.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapWidgetBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapWidgetBase.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_TooltipWidgetBase.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_TooltipWidgetBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_TooltipWidgetBase.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemActorBounds.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemActorBounds.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemActorBounds.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_MinimapWidgetBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystem_TooltipWidgetBase.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_TooltipWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystem_TooltipWidgetBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemActorBounds.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemActorBounds.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemActorBounds.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
@@ -171,24 +171,24 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Compone
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent2D.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemManager.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemManager.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapGenerationCompleteDelegate.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapGenerationCompleteDelegate.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemManager.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemStaticLibrary.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemStaticLibrary.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemStaticLibrary.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemWidget_PingElementBase.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidget_PingElementBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemWidget_PingElementBase.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemWidgetBase.cpp
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapWidgetInternalBase.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapWidgetInternalBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapWidgetInternalBase.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MinimapElementInfo.cpp
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/ObserverPawnBlockingVolume.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\ObserverPawnBlockingVolume.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\ObserverPawnBlockingVolume.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/RenderTargetMinimap.cpp
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/SolsticeMinimapModule.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemManager.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemManager.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapGenerationCompleteDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapGenerationCompleteDelegate.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemManager.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemStaticLibrary.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemStaticLibrary.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemStaticLibrary.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemWidget_PingElementBase.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidget_PingElementBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapSystemWidget_PingElementBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapSystemWidgetBase.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MapWidgetInternalBase.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapWidgetInternalBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\MapWidgetInternalBase.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/MinimapElementInfo.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/ObserverPawnBlockingVolume.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\ObserverPawnBlockingVolume.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Inc\SolsticeMinimap\ObserverPawnBlockingVolume.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/RenderTargetMinimap.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/SolsticeMinimap/Source/SolsticeMinimap/Private/SolsticeMinimapModule.cpp

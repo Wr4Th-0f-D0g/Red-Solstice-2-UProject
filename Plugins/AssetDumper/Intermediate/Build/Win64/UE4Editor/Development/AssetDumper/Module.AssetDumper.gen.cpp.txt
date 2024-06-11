@@ -1,69 +1,69 @@
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Definitions.AssetDumper.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AnimationBlueprintAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Definitions.AssetDumper.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AnimationBlueprintAssetSerializer.gen.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/AnimationBlueprintAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetTypeSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AssetTypeSerializer.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/BlueprintAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\BlueprintAssetSerializer.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationBlueprintAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AnimationMontageAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/AnimationMontageAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationMontageAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AnimationSequenceAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/AnimationSequenceAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationSequenceAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AssetDumper.init.gen.cpp
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AssetTypeSerializer.gen.cpp
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/BlendSpaceAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/BlendSpaceAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\BlendSpaceAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/BlueprintAssetSerializer.gen.cpp
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/CameraAnimAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/CameraAnimAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CameraAnimAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/CurveBaseAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/CurveBaseAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CurveBaseAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/CurveLinearColorAtlasAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/CurveLinearColorAtlasAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CurveLinearColorAtlasAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/DataTableAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/DataTableAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\DataTableAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/FileMediaSourceAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/FileMediaSourceAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FileMediaSourceAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/FontAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/FontAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FontAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/FontFaceAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/FontFaceAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FontFaceAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/LandscapeGrassTypeAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/LandscapeGrassTypeAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\LandscapeGrassTypeAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MaterialAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MaterialAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MaterialFunctionAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MaterialFunctionAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialFunctionAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MaterialInstanceAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MaterialInstanceAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialInstanceAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MaterialParameterCollectionAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MaterialParameterCollectionAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialParameterCollectionAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MediaPlayerAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MediaPlayerAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MediaPlayerAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MediaTextureAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MediaTextureAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MediaTextureAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/ObjectHierarchySerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/ObjectHierarchySerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/AnimationBlueprintAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetDumping/AssetTypeSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AssetTypeSerializer.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Public\Toolkit/AssetTypes/BlueprintAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\BlueprintAssetSerializer.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationBlueprintAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AnimationMontageAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/AnimationMontageAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationMontageAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AnimationSequenceAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/AnimationSequenceAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\AnimationSequenceAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AssetDumper.init.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/AssetTypeSerializer.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/BlendSpaceAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/BlendSpaceAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\BlendSpaceAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/BlueprintAssetSerializer.gen.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/CameraAnimAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/CameraAnimAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CameraAnimAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/CurveBaseAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/CurveBaseAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CurveBaseAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/CurveLinearColorAtlasAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/CurveLinearColorAtlasAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\CurveLinearColorAtlasAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/DataTableAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/DataTableAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\DataTableAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/FileMediaSourceAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/FileMediaSourceAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FileMediaSourceAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/FontAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/FontAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FontAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/FontFaceAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/FontFaceAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\FontFaceAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/LandscapeGrassTypeAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/LandscapeGrassTypeAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\LandscapeGrassTypeAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MaterialAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MaterialAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MaterialFunctionAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MaterialFunctionAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialFunctionAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MaterialInstanceAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MaterialInstanceAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialInstanceAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MaterialParameterCollectionAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MaterialParameterCollectionAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MaterialParameterCollectionAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MediaPlayerAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MediaPlayerAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MediaPlayerAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/MediaTextureAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/MediaTextureAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\MediaTextureAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/ObjectHierarchySerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/ObjectHierarchySerializer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Json.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
@@ -148,45 +148,45 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serializat
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializerMacros.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\ObjectHierarchySerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/PhysicalMaterialAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/PhysicalMaterialAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\PhysicalMaterialAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/PropertySerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/PropertySerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\PropertySerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/SkeletalMeshAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/SkeletalMeshAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SkeletalMeshAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/SkeletonAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/SkeletonAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SkeletonAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/StaticMeshAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/StaticMeshAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\StaticMeshAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/StringTableAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/StringTableAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\StringTableAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/SubsurfaceProfileAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/SubsurfaceProfileAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SubsurfaceProfileAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/Texture2DArrayAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/Texture2DArrayAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\Texture2DArrayAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/TextureAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/TextureAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\TextureAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/TextureCubeAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/TextureCubeAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\TextureCubeAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/UserDefinedEnumAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/UserDefinedEnumAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserDefinedEnumAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/UserDefinedStructAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/UserDefinedStructAssetSerializer.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserDefinedStructAssetSerializer.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/UserWidgetAssetSerializer.gen.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/UserWidgetAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\ObjectHierarchySerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/PhysicalMaterialAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/PhysicalMaterialAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\PhysicalMaterialAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/PropertySerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/PropertySerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\PropertySerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/SkeletalMeshAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/SkeletalMeshAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SkeletalMeshAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/SkeletonAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/SkeletonAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SkeletonAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/StaticMeshAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/StaticMeshAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\StaticMeshAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/StringTableAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/StringTableAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\StringTableAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/SubsurfaceProfileAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/SubsurfaceProfileAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\SubsurfaceProfileAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/Texture2DArrayAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/Texture2DArrayAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\Texture2DArrayAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/TextureAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/TextureAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\TextureAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/TextureCubeAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/TextureCubeAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\TextureCubeAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/UserDefinedEnumAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/UserDefinedEnumAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserDefinedEnumAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/UserDefinedStructAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/UserDefinedStructAssetSerializer.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserDefinedStructAssetSerializer.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/AssetDumper/Intermediate/Build/Win64/UE4Editor/Inc/AssetDumper/UserWidgetAssetSerializer.gen.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper/Public/Toolkit/AssetTypes/UserWidgetAssetSerializer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetTree.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
@@ -314,4 +314,4 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\PanelWidget.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTree.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserWidgetAssetSerializer.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper\UserWidgetAssetSerializer.generated.h

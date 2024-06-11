@@ -1,22 +1,22 @@
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapGenerationCompleteDelegate.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElementInfo.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapWidgetInternalBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_TooltipWidgetBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemManager.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapDynamicActorComponent.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MapWidgetBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemActorBounds.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapWidgetBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementHoveredDelegate.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementUnHoveredDelegate.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidgetBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElement.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemStaticLibrary.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MinimapInterface.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapElementBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidget_PingElementBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MapElementBase.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\RenderTargetMinimap.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\ObserverPawnBlockingVolume.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapDrawCanvas.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MinimapElementInfo.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElementInfo.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemManager.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemStaticLibrary.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemWidget_PingElementBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MapElementBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MapWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapDrawCanvas.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapElementBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_MinimapWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystem_TooltipWidgetBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapWidgetInternalBase.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapElement.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapSystemActorBounds.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapDynamicActorComponent.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MapGenerationCompleteDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MinimapElementInfo.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementUnHoveredDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\MinimapInterface.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\OnLargeMapElementHoveredDelegate.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\ObserverPawnBlockingVolume.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\SolsticeMinimap\Source\SolsticeMinimap\Public\RenderTargetMinimap.h

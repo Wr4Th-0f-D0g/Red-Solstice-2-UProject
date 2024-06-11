@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AuthaerWidgetComponentPlugin.cpp.obj": [
+			"AuthaerComponentUserWidget.cpp.obj",
+			"AuthaerWidgetComponent.cpp.obj",
+			"AuthaerWidgetComponentManager.cpp.obj",
+			"AuthaerWidgetComponentPluginModule.cpp.obj"
+		],
+		"Module.AuthaerWidgetComponentPlugin.gen.cpp.obj": [
+			"AuthaerComponentUserWidget.gen.cpp.obj",
+			"AuthaerWidgetComponent.gen.cpp.obj",
+			"AuthaerWidgetComponentManager.gen.cpp.obj",
+			"AuthaerWidgetComponentPlugin.init.gen.cpp.obj"
+		]
+	}
+}

@@ -29,10 +29,10 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Source\CgSDK\Private"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Inc\CgSDK"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Source"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Source\CgSDK\Public"
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Source\CgSDK\Private
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Inc\CgSDK
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Source
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Source\CgSDK\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Module.CgSDK.cpp"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Definitions.CgSDK.h"
-/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Module.CgSDK.cpp.obj"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Module.CgSDK.cpp"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Definitions.CgSDK.h"
+/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CgSDK\CgSDK\Intermediate\Build\Win64\UE4Editor\Development\CgSDK\Module.CgSDK.cpp.obj"
 /TP
 /GR-
 /W4

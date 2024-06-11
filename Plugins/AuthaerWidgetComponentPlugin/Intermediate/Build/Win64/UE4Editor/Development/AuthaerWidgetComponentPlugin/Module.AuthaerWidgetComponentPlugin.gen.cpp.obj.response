@@ -29,10 +29,10 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Source\AuthaerWidgetComponentPlugin\Private"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Intermediate\Build\Win64\UE4Editor\Inc\AuthaerWidgetComponentPlugin"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Source"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Source\AuthaerWidgetComponentPlugin\Public"
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Source\AuthaerWidgetComponentPlugin\Private
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Intermediate\Build\Win64\UE4Editor\Inc\AuthaerWidgetComponentPlugin
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Source
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Source\AuthaerWidgetComponentPlugin\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Intermediate\Build\Win64\UE4Editor\Development\AuthaerWidgetComponentPlugin\Module.AuthaerWidgetComponentPlugin.gen.cpp"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Intermediate\Build\Win64\UE4Editor\Development\AuthaerWidgetComponentPlugin\Definitions.AuthaerWidgetComponentPlugin.h"
-/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Intermediate\Build\Win64\UE4Editor\Development\AuthaerWidgetComponentPlugin\Module.AuthaerWidgetComponentPlugin.gen.cpp.obj"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Intermediate\Build\Win64\UE4Editor\Development\AuthaerWidgetComponentPlugin\Module.AuthaerWidgetComponentPlugin.gen.cpp"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Intermediate\Build\Win64\UE4Editor\Development\AuthaerWidgetComponentPlugin\Definitions.AuthaerWidgetComponentPlugin.h"
+/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AuthaerWidgetComponentPlugin\Intermediate\Build\Win64\UE4Editor\Development\AuthaerWidgetComponentPlugin\Module.AuthaerWidgetComponentPlugin.gen.cpp.obj"
 /TP
 /GR-
 /W4

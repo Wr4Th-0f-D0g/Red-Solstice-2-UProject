@@ -1,19 +1,19 @@
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\CommonLoadingScreen\Definitions.CommonLoadingScreen.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/CommonLoadingScreen/Source/CommonLoadingScreen/Private/CommonLoadingScreenModule.cpp
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/CommonLoadingScreen/Source/CommonLoadingScreen/Private/CommonLoadingScreenSettings.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\CommonLoadingScreenSettings.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\CommonLoadingScreen\Definitions.CommonLoadingScreen.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/CommonLoadingScreen/Source/CommonLoadingScreen/Private/CommonLoadingScreenModule.cpp
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/CommonLoadingScreen/Source/CommonLoadingScreen/Private/CommonLoadingScreenSettings.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\CommonLoadingScreenSettings.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Inc\CommonLoadingScreen\CommonLoadingScreenSettings.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/CommonLoadingScreen/Source/CommonLoadingScreen/Private/LoadingProcessTask.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingProcessTask.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingProcessInterface.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Inc\CommonLoadingScreen\LoadingProcessInterface.generated.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Inc\CommonLoadingScreen\LoadingProcessTask.generated.h
-C:/Users/sasqu/OneDrive/Documents/Unreal Projects/TwinstickRemake/Plugins/CommonLoadingScreen/Source/CommonLoadingScreen/Private/LoadingScreenManager.cpp
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingScreenManager.h
-C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Inc\CommonLoadingScreen\LoadingScreenManager.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Inc\CommonLoadingScreen\CommonLoadingScreenSettings.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/CommonLoadingScreen/Source/CommonLoadingScreen/Private/LoadingProcessTask.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingProcessTask.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingProcessInterface.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Inc\CommonLoadingScreen\LoadingProcessInterface.generated.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Inc\CommonLoadingScreen\LoadingProcessTask.generated.h
+C:/Users/sasqu/OneDrive/Documents/Unreal-Projects/TwinstickRemake/Plugins/CommonLoadingScreen/Source/CommonLoadingScreen/Private/LoadingScreenManager.cpp
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingScreenManager.h
+C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UE4Editor\Inc\CommonLoadingScreen\LoadingScreenManager.generated.h

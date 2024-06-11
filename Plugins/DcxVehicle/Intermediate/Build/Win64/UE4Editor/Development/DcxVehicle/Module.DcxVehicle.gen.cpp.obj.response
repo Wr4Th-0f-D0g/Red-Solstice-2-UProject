@@ -29,10 +29,10 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Private"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public"
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Private
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\DcxVehicle\Source
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime
 /I Runtime\AnimGraphRuntime\Public
@@ -263,12 +263,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.gen.cpp"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Definitions.DcxVehicle.h"
-/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.gen.cpp.obj"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.gen.cpp"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Definitions.DcxVehicle.h"
+/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.gen.cpp.obj"
 /TP
 /GR-
 /W4

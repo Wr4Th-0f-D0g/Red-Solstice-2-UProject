@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:"F:\UNEPIC GAMES\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -20,8 +20,8 @@
 /DELAYLOAD:"DBGHELP.DLL"
 /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\lib\um\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -33,15 +33,15 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.cpp.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.gen.cpp.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Default.rc2.res"
-"F:\UNEPIC GAMES\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimGraphRuntime\UE4Editor-AnimGraphRuntime.lib"
-"F:\UNEPIC GAMES\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"F:\UNEPIC GAMES\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"F:\UNEPIC GAMES\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"F:\UNEPIC GAMES\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\PhysicsCore\UE4Editor-PhysicsCore.lib"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.gen.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimGraphRuntime\UE4Editor-AnimGraphRuntime.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\PhysicsCore\UE4Editor-PhysicsCore.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -66,7 +66,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Binaries\Win64\UE4Editor-DcxVehicle.dll"
-/IMPLIB:"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\UE4Editor-DcxVehicle.suppressed.lib"
-/PDB:"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Binaries\Win64\UE4Editor-DcxVehicle.pdb"
+/OUT:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Binaries\Win64\UE4Editor-DcxVehicle.dll"
+/IMPLIB:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\UE4Editor-DcxVehicle.suppressed.lib"
+/PDB:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Binaries\Win64\UE4Editor-DcxVehicle.pdb"
 /ignore:4078

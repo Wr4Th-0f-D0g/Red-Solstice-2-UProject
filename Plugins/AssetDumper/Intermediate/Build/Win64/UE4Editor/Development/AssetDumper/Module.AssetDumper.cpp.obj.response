@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Private"
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore
 /I Runtime
 /I Runtime\PhysicsCore\Public
@@ -238,10 +238,10 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MediaUtils
 /I Runtime\MediaUtils\Public
 /I Editor\MainFrame\Public
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\ThirdParty\include"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Public"
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\ThirdParty\include
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
 /I ThirdParty\PhysX3\PxShared\include
@@ -273,12 +273,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h"
-/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h"
-/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h.pch"
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Module.AssetDumper.cpp"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Definitions.AssetDumper.h"
-/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Module.AssetDumper.cpp.obj"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h"
+/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h"
+/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h.pch"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Module.AssetDumper.cpp"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Definitions.AssetDumper.h"
+/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Development\AssetDumper\Module.AssetDumper.cpp.obj"
 /TP
 /GR-
 /W4

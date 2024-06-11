@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Private"
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Private
 /I Developer
 /I Developer\DesktopPlatform\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MaterialEditor
@@ -246,9 +246,9 @@
 /I Runtime\Media\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MediaUtils
 /I Runtime\MediaUtils\Public
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Public"
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Inc\AssetGenerator
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetGenerator\Source
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetGenerator\Source\AssetGenerator\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UMGEditor
 /I Editor\UMGEditor\Classes
 /I Editor\UMGEditor\Public
@@ -258,10 +258,10 @@
 /I Editor\SceneOutliner\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CurveEditor
 /I Editor\CurveEditor\Public
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\ThirdParty\include"
-/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Public"
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Intermediate\Build\Win64\UE4Editor\Inc\AssetDumper
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\ThirdParty\include
+/I C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetDumper\Source\AssetDumper\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -291,12 +291,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h"
-/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h"
-/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h.pch"
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Module.AssetGenerator.cpp"
-/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Definitions.AssetGenerator.h"
-/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Module.AssetGenerator.cpp.obj"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h"
+/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h"
+/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h.pch"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Module.AssetGenerator.cpp"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Definitions.AssetGenerator.h"
+/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\AssetGenerator\Intermediate\Build\Win64\UE4Editor\Development\AssetGenerator\Module.AssetGenerator.cpp.obj"
 /TP
 /GR-
 /W4

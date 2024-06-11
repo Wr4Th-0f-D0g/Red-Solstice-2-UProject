@@ -29,10 +29,10 @@
 /wd4244
 /wd4838
 /I .
-/I "F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Private"
-/I "F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle"
-/I "F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Source"
-/I "F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Private"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Inc\DcxVehicle"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Source\DcxVehicle\Public"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime
 /I Runtime\AnimGraphRuntime\Public
@@ -259,16 +259,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.cpp"
-/FI"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Definitions.DcxVehicle.h"
-/Fo"F:\Other Modding\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.cpp"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Definitions.DcxVehicle.h"
+/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\DcxVehicle\Intermediate\Build\Win64\UE4Editor\Development\DcxVehicle\Module.DcxVehicle.cpp.obj"
 /TP
 /GR-
 /W4

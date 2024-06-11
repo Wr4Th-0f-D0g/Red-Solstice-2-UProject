@@ -29,10 +29,10 @@
 /wd4244
 /wd4838
 /I .
-/I "F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Source\ConstructionSystemRuntime\Private"
-/I "F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Inc\ConstructionSystemRuntime"
-/I "F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Source"
-/I "F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Source\ConstructionSystemRuntime\Public"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Source\ConstructionSystemRuntime\Private"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Inc\ConstructionSystemRuntime"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Source"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Source\ConstructionSystemRuntime\Public"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -232,8 +232,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Inc\PrefabricatorRuntime"
-/I "F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Source\PrefabricatorRuntime\Public"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Inc\PrefabricatorRuntime"
+/I "C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Source\PrefabricatorRuntime\Public"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -259,16 +259,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\Module.ConstructionSystemRuntime.gen.cpp"
-/FI"F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\Definitions.ConstructionSystemRuntime.h"
-/Fo"F:\Other Modding\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\Module.ConstructionSystemRuntime.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\Module.ConstructionSystemRuntime.gen.cpp"
+/FI"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\Definitions.ConstructionSystemRuntime.h"
+/Fo"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\Module.ConstructionSystemRuntime.gen.cpp.obj"
 /TP
 /GR-
 /W4

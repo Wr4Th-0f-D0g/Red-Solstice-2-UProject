@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-FMODStudio.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\Module.FMODStudio.cpp.obj"
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\Module.FMODStudio.gen.cpp.obj"
-"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\Default.rc2.res"
-/OUT:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\UE4Editor-FMODStudio.lib"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\Module.FMODStudio.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\Module.FMODStudio.gen.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\Default.rc2.res"
+/OUT:"C:\Users\sasqu\OneDrive\Documents\Unreal-Projects\TwinstickRemake\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\UE4Editor-FMODStudio.lib"

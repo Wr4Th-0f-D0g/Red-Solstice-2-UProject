@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-SolsticeMinimap.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"F:\Other Modding\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Module.SolsticeMinimap.cpp.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Module.SolsticeMinimap.gen.1_of_2.cpp.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Module.SolsticeMinimap.gen.2_of_2.cpp.obj"
-"F:\Other Modding\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Default.rc2.res"
-/OUT:"F:\Other Modding\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\UE4Editor-SolsticeMinimap.lib"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Intermediate\Build\Win64\TwinStickEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Module.SolsticeMinimap.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Module.SolsticeMinimap.gen.1_of_2.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Module.SolsticeMinimap.gen.2_of_2.cpp.obj"
+"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\Default.rc2.res"
+/OUT:"C:\Users\sasqu\OneDrive\Documents\Unreal Projects\TwinstickRemake\Plugins\SolsticeMinimap\Intermediate\Build\Win64\UE4Editor\Development\SolsticeMinimap\UE4Editor-SolsticeMinimap.lib"
