@@ -8,4 +8,4 @@ To use: download Unreal Engine 4.27 from the Epic Games Launcher then right clic
 Open the .sln, build, drop the Content folder in the project directory, then open the .uproject. Happy Modding!
 
 Link to the UE modding discord for help and learning more about how to use this project: https://discord.gg/zVvsE9mEEa
-Link to the Content for the project: https://drive.google.com/file/d/1menXehnLOOz4IgaqmcFQc_ged_mwEE25/view?usp=drive_link
+Link to the Content for the project: https://drive.google.com/file/d/1P5dCYzutpJ4szxnIIkWGjtbNwNXQxipN/view?usp=sharing
